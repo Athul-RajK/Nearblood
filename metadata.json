@@ -1,0 +1,6 @@
+{
+  "name": "Nearblood",
+  "description": "Blood donation network with donor profiles, QR verification, digital donor ID, emergency ambulance directory, and donation eligibility calculator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,14 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Centered Blood drop shape -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,24 C54,24 32,50 32,66 C32,78.15 41.85,88 54,88 C66.15,88 76,78.15 76,66 C76,50 54,24 54,24 Z" />
+    <!-- Inner Cross / Plus in vibrant purple tint -->
+    <path
+        android:fillColor="#6342E8"
+        android:pathData="M51,54 h6 v6 h-6 z M51,64 h6 v6 h-6 z M44,59 h20 v6 h-20 z" />
+</vector>
